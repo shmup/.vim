@@ -1,0 +1,10 @@
+junk/undo/*
+junk/backup/*
+junk/swp/*
+junk/view/*
+autoload/pathogen.vim
+
+!junk/undo/.keep
+!junk/backup/.keep
+!junk/swp/.keep
+!junk/view/.keep
